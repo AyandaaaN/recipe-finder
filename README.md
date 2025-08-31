@@ -3,7 +3,7 @@
 Find meals using what you already have. Desktop-first React app using TheMealDB, with Favorites saved locally.
 
 ## Demo
-- 🎥 Loom video: <>
+- 🎥 Loom video: <Pending>
 
 ## Why
 Most people start with ingredients on hand, not a recipe. This app searches recipes by one or more comma-separated ingredients and lets you save favorites.
